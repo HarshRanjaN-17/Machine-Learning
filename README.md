@@ -2,17 +2,17 @@
 
 This repository contains Various basic Supervised and Unsupervised Ml models
 
-## -**Supervised ML**
+## - **Supervised ML**
 
-        Linear Regression
-        Logistic Regression
-        Polynomial Regression
-        Decision Tree
-        Random Forest
-        KNN
-        Naive Bayes
-        SVM
+        - Linear Regression
+        - Logistic Regression
+        - Polynomial Regression
+        - Decision Tree
+        - Random Forest
+        - KNN
+        - Naive Bayes
+        - SVM
 
-## -**Unsupervised ML**
+## - **Unsupervised ML**
 
-        K-Means Clustering
+        - K-Means Clustering
