@@ -2,7 +2,7 @@
 
 This repository contains Various basic Supervised and Unsupervised Ml models
 
-## - **Supervised ML**
+## **Supervised ML**
 
         - Linear Regression
         - Logistic Regression
@@ -13,6 +13,6 @@ This repository contains Various basic Supervised and Unsupervised Ml models
         - Naive Bayes
         - SVM
 
-## - **Unsupervised ML**
+## **Unsupervised ML**
 
         - K-Means Clustering
